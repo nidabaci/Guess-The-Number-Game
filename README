@@ -1,4 +1,3 @@
-#Guess the number game
 This is a simple game created using HTML, CSS and JavaScript.
 Rules are simple and the game it's self explanatory.
 You pick a number from 1 to 20 and the game hint displays whether the umber is too high or too low,
